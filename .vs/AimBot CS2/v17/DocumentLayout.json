@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{330F6EAE-F30C-4613-AEA9-F7832318A05E}|AimBot CS2\\AimBot CS2.csproj|c:\\users\\pichi\\onedrive\\escritorio\\hacks\\aimbot cs2\\aimbot cs2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330F6EAE-F30C-4613-AEA9-F7832318A05E}|AimBot CS2\\AimBot CS2.csproj|solutionrelative:aimbot cs2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330F6EAE-F30C-4613-AEA9-F7832318A05E}|AimBot CS2\\AimBot CS2.csproj|c:\\users\\pichi\\onedrive\\escritorio\\hacks\\aimbot cs2\\aimbot cs2\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330F6EAE-F30C-4613-AEA9-F7832318A05E}|AimBot CS2\\AimBot CS2.csproj|solutionrelative:aimbot cs2\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330F6EAE-F30C-4613-AEA9-F7832318A05E}|AimBot CS2\\AimBot CS2.csproj|c:\\users\\pichi\\onedrive\\escritorio\\hacks\\aimbot cs2\\aimbot cs2\\offsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330F6EAE-F30C-4613-AEA9-F7832318A05E}|AimBot CS2\\AimBot CS2.csproj|solutionrelative:aimbot cs2\\offsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330F6EAE-F30C-4613-AEA9-F7832318A05E}|AimBot CS2\\AimBot CS2.csproj|c:\\users\\pichi\\onedrive\\escritorio\\hacks\\aimbot cs2\\aimbot cs2\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330F6EAE-F30C-4613-AEA9-F7832318A05E}|AimBot CS2\\AimBot CS2.csproj|solutionrelative:aimbot cs2\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330F6EAE-F30C-4613-AEA9-F7832318A05E}|AimBot CS2\\AimBot CS2.csproj|c:\\users\\pichi\\onedrive\\escritorio\\hacks\\aimbot cs2\\aimbot cs2\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330F6EAE-F30C-4613-AEA9-F7832318A05E}|AimBot CS2\\AimBot CS2.csproj|solutionrelative:aimbot cs2\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c1c74746-265a-4718-a5ab-63963d38e8bb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\AimBot CS2\\Calculate.cs",
+              "RelativeDocumentMoniker": "AimBot CS2\\Calculate.cs",
+              "ToolTip": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\AimBot CS2\\Calculate.cs",
+              "RelativeToolTip": "AimBot CS2\\Calculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:18:10.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Offsets.cs",
+              "DocumentMoniker": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\AimBot CS2\\Offsets.cs",
+              "RelativeDocumentMoniker": "AimBot CS2\\Offsets.cs",
+              "ToolTip": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\AimBot CS2\\Offsets.cs",
+              "RelativeToolTip": "AimBot CS2\\Offsets.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:20:58.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\AimBot CS2\\Entity.cs",
+              "RelativeDocumentMoniker": "AimBot CS2\\Entity.cs",
+              "ToolTip": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\AimBot CS2\\Entity.cs",
+              "RelativeToolTip": "AimBot CS2\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:15:18.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\AimBot CS2\\Renderer.cs",
+              "RelativeDocumentMoniker": "AimBot CS2\\Renderer.cs",
+              "ToolTip": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\AimBot CS2\\Renderer.cs",
+              "RelativeToolTip": "AimBot CS2\\Renderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:04:09.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\AimBot CS2\\Program.cs",
+              "RelativeDocumentMoniker": "AimBot CS2\\Program.cs",
+              "ToolTip": "C:\\Users\\pichi\\OneDrive\\Escritorio\\Hacks\\AimBot CS2\\AimBot CS2\\Program.cs",
+              "RelativeToolTip": "AimBot CS2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:53:26.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

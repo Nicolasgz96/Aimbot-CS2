@@ -1,0 +1,54 @@
+# Ignorar archivos y carpetas generados por Visual Studio
+.vs/
+**/bin/
+**/obj/
+
+# Ignorar archivos de compilación
+*.exe
+*.dll
+*.pdb
+
+# Ignorar archivos de usuario de Visual Studio
+*.user
+*.suo
+
+# Ignorar archivos temporales
+*.tmp
+*.temp
+
+# Ignorar archivos de respaldo
+*~
+*.bak
+
+# Ignorar archivos de configuración local
+*.config
+
+# Ignorar archivos de caché
+*.cache
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos específicos de ReSharper
+_ReSharper*/
+
+# Ignorar archivos de NuGet
+packages/
+
+# Ignorar archivos de compilación de .NET
+*.dll.config
+
+# Ignorar archivos de publicación
+**/publish/
+
+# Ignorar archivos de análisis de código
+*.sln.docstates
+
+# Ignorar archivos de caché de Visual Studio Code
+.vscode/
+
+# Ignorar archivos específicos de macOS
+.DS_Store
+
+# Ignorar archivos específicos de Windows
+Thumbs.db
